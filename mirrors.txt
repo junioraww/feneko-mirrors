@@ -1,1 +1,1 @@
-https://voice-chat.lisyak.net:3000
+https://voice-chat.lisyak.net
